@@ -1,4 +1,4 @@
-# centos7_chefnode
+# centos7_chefnode - testing docker hub autobuild 
 A docker image to run containers as Chef nodes.
 
 
